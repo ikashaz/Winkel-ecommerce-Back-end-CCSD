@@ -19,17 +19,22 @@ Testing: Postman
 🌟 Features
 
 **Shopping Cart**
+
 Users can add or remove products to/from the cart and proceed to checkout. The cart integrates with PayPal API to process online and credit card payments.
 
 **Dynamic Search by Category**
+
 Users can browse and filter products by categories with dynamic, real-time search capabilities.
 
 **Pagination**
+
 Products are displayed with pagination to improve user experience and manage large data sets.
 
 **Authentication & Authorization**
+
 Secure login and access control using Spring Security, OAuth2, and JWT, ensuring protected routes for users.
 
 **API Testing with Postman**
+
 All RESTful APIs are tested and documented using Postman, ensuring reliability and ease of backend debugging.
 
