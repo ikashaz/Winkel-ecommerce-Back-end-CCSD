@@ -17,6 +17,7 @@ Payment Integration: PayPal API
 Testing: Postman
 
 🌟 Features
+
 🛍️ Shopping Cart
 Users can add or remove products to/from the cart and proceed to checkout. The cart integrates with PayPal API to process online and credit card payments.
 
