@@ -1,4 +1,5 @@
 WinkelClothEcomm
+
 🛒 E-Commerce Application
 This is a comprehensive full-stack e-commerce application developed using Angular 14 (frontend) and Spring Boot 3 (backend). It features a secure shopping cart system, PayPal integration for online and credit card payments, dynamic product search, pagination, and user authentication with Spring Security, OAuth2, and JWT.
 
