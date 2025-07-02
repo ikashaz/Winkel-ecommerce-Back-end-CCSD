@@ -3,6 +3,9 @@
 🛒 E-Commerce Application
 This is a comprehensive full-stack e-commerce application developed using Angular 14 (frontend) and Spring Boot 3 (backend). It features a secure shopping cart system, PayPal integration for online and credit card payments, dynamic product search, pagination, and user authentication with Spring Security, OAuth2, and JWT.
 
+👥 _This project was developed by a team of 5 members during a technical certification program under Yayasan Peneraju._  
+🧾 _It was part of the requirements to obtain the CCSD Professional Certification (Convergence Certification and Skill Development Council)._
+
 Technologies Used
 Frontend: Angular 14, TypeScript, HTML, CSS, Bootstrap
 
